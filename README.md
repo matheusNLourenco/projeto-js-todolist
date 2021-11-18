@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-    <a href="https://matheusnlourenco.github.io/project-js-climate/">See the Project</a>
+    <a href="https://matheusnlourenco.github.io/project-todolist-js/">See the Project</a>
 </h2>
 <h2>🚨 about</h2>
 
